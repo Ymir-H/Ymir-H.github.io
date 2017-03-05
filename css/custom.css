@@ -1,0 +1,42 @@
+.card {
+	margin-bottom: 20px;
+	box-shadow: 2px 2px 0px #ECEFF1;
+}
+
+.progress{
+	-webkit-margin-top-collapse: discard;
+}
+
+.progress-bar {
+	height: 100%;
+	margin-bottom: 0px;
+}
+
+.font-bold{
+	font-weight: bold;
+}
+.bg-blud{
+	background-color: #29B6F6;
+}
+
+.socialmediabar{
+	background-color: #D6DBDF;
+	text-align: center;
+}
+
+.fa-inverse {
+    color: #29B6F6;
+}
+
+body{
+	font-size: 17px;
+}
+
+h2{
+	color: #F48FB1;
+}
+
+.description {
+  background-image: url("../img/sky.jpg");
+  background-repeat: repeat-x;
+}
